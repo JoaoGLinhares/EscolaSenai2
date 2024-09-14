@@ -12,16 +12,16 @@ new subjects to the code based on what was taught, the objective is to absorb th
 Students registered in the system, teachers, grades and subjects, based on business rules to implement exceptions and inheritance, in addition to permissions.
 
 ## Modelos de Dominio em atualização (Domain model updating)
-![Modelo UML Diagram](https://github.com/JoaoGLinhares/EscolaSenai/blob/main/assets/ClassesEscolaSenai.png)
+![Modelo UML Diagram](https://github.com/JoaoGLinhares/EscolaSenai2/blob/main/assets/ClassesEscolaSenai.png)
 
 ## Entidades (entities)
-![Modelo UML Diagram](https://github.com/JoaoGLinhares/EscolaSenai/blob/main/assets/entidades.png)
+![Modelo UML Diagram](https://github.com/JoaoGLinhares/EscolaSenai2/blob/main/assets/entidades.png)
 
 ## Aplicação (application)
-![Modelo UML Diagram](https://github.com/"JoaoGLinhares"/EscolaSenai/blob/main/assets/application.png) 
+![Modelo UML Diagram](https://github.com/"JoaoGLinhares"/EscolaSenai2/blob/main/assets/application.png) 
 
 ## Enums
-![Modelo UML Diagram](https://github.com/"JoaoGLinhares"/EscolaSenai/blob/main/assets/enums.png)
+![Modelo UML Diagram](https://github.com/"JoaoGLinhares"/EscolaSenai2/blob/main/assets/enums.png)
 
 OBS: TODOS OS DIAGRAMAS E CÓDIGOS AINDA ESTÃO EM CURSO ENTÃO VÃO SOFRER ALTERAÇÕES
 OBS: ALL DIAGRAMS AND CODES ARE STILL IN PROGRESS SO THEY WILL SUBJECT TO CHANGES
